@@ -1,0 +1,17 @@
+langchain
+langchain_community
+pypdf
+bs4
+arxiv 
+pymupdf
+langchain-text-splitters
+python-dotenv
+langchain-openai
+sentence-transformers # For Huggingface embeddings
+langchain_huggingface
+faiss-cpu # For FAISS vector store
+chromadb 
+langchain_chroma
+beautifulsoup4
+streamlit
+langchain_ollama

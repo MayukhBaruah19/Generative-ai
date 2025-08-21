@@ -1,0 +1,5 @@
+venv_Gen/
+
+.env
+Langchain_Models/.env
+chroma_db/
