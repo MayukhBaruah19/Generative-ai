@@ -15,3 +15,9 @@ langchain_chroma
 beautifulsoup4
 streamlit
 langchain_ollama
+
+#LCEL
+langchain_groq
+fastapi
+uvicorn
+langserve==0.3.1
