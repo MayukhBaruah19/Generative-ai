@@ -14,7 +14,7 @@ chromadb
 langchain_chroma
 beautifulsoup4
 streamlit
-langchain_ollama
+langchain-ollama==0.3.6
 
 #LCEL
 langchain_groq

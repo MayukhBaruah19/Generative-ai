@@ -1,4 +1,5 @@
 venv_Gen/
+venv_tans/
 
 .env
 Langchain_Models/.env
